@@ -1,2 +1,6 @@
-package modelos;public class Restaurante {
+package modelos;
+
+public class Restaurante {
+
+    private String nombre;
 }
